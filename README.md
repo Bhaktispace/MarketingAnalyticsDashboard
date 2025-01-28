@@ -8,10 +8,15 @@ An online retail business, is facing a reduced customer engagement and conversio
 3. High Marketing Expense: Significant investment in marketing campaigns are not yielding expected returns.
 4. Need for Customer Feedback: Understanding customer opinions about products and services is crucial for improving engagenment and conversions.
 
-## KPIs Key Performance Indicators
+## KPIs Key Performance Indicators to consider
 1. Conversion rate
 The percentage of visitors who make purchase.
 2. Customer Engagement Rate
 Level of interaction with the marketing content (views, clicks, likes)
 3. Customer Feedback Score
 Average rating from customer reviews.
+
+## Goals
+1. Increase Conversion Rate
+2. Enhance Customer Engament
+3. Improve Customer Feedback
