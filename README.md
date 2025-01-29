@@ -36,5 +36,5 @@ Power BI, Python, SQL
 1. **Overview**
    * **Decreased Conversion Rates**: There was a dip in conversion rate from 16.0% in September to 5.1% in October. But then there is rebound in the month of December reaching back to 10.3%
 
-      ![Overview Page] (https://github.com/Bhaktispace/MarketingAnalyticsDashboard/blob/main/Screenshot%202025-01-29%20183713.png)
+      
      
