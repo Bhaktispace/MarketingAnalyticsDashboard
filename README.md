@@ -2,6 +2,9 @@
 
 ## Business Problem
 An online retail business, is facing a reduced customer engagement and conversion rates despite launching several new online marketing campaigns. They need help to conduct a detailed analysis and identify areas of improvement.
+### Teams Involved
+1. Marketing: Even after increased investment in Marketing there is a decline in customer engagement and conversion rates.
+2. Customer Experience: Seeking help with analyzing customer feedbacks to help in the overall gaol of improving the conversion rates
 ### Key Points
 1. Reduced Customer Engagement: The number of customer interactions and engagement with the website and marketing content has declined.
 2. Decreased Conversion Rate: Fewer site visitors are converting into customers.
