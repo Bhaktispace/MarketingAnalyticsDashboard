@@ -28,3 +28,10 @@ Average rating from customer reviews.
    marketing content to inform better content strategies.
 3. Improve Customer Feedback
    Identify recurring positive and negative feedback to guide product improvemnt.
+
+## Tools Used
+Power BI, Python, SQL
+
+## Data Presentation
+1. Overview
+   
