@@ -34,4 +34,4 @@ Power BI, Python, SQL
 
 ## Data Presentation
 1. Overview
-   
+   * **Decreased Conversion Rates**:
