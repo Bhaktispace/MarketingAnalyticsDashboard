@@ -33,6 +33,7 @@ Average rating from customer reviews.
 Power BI, Python, SQL
 
 ## Data Presentation
-1. Overview
+1. **Overview**
    * **Decreased Conversion Rates**: There was a dip in conversion rate from 16.0% in September to 5.1% in October. But then there is rebound in the month of December reaching back to 10.3%
+      ![Conversion Rate by Month] ("C:\Users\gailt\Downloads\Screenshot 2025-01-29 183459.png")
      
