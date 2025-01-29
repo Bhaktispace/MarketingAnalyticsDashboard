@@ -18,5 +18,10 @@ Average rating from customer reviews.
 
 ## Goals
 1. Increase Conversion Rate
+   Identify factors impacting the conversion rate and provide recommendations to improve it.
+   Highlight stages where visitor drop off and suggest improvemnts to optimize the conversion funnel.
 2. Enhance Customer Engament
+   Determine which type of content is driving the highest engement. Analyze interaction level with different     
+   marketing content to inform better content strategies.
 3. Improve Customer Feedback
+   Identify recurring positive and negative feedback to guide product improvemnt.
