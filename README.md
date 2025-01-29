@@ -29,7 +29,7 @@ Average rating from customer reviews.
 3. Improve Customer Feedback
    Identify recurring positive and negative feedback to guide product improvemnt.
 
-## Tools Used
+## Tools And Technology Used
 Power BI, Python, SQL
 
 ## Data Presentation
