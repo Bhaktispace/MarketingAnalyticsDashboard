@@ -45,4 +45,5 @@ Power BI, Python, SQL
      
       ![image alt](https://github.com/Bhaktispace/MarketingAnalyticsDashboard/blob/f8bccae2a23c4448724995e19e20ca7ab9a1cfc1/Screenshot%202025-01-29%20183713.png)
       
-     
+ 2. **Decreased Conversion Rates**
+    * **General Conversion Trend**:     
