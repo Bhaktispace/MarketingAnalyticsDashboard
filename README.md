@@ -34,7 +34,9 @@ Power BI, Python, SQL
 
 ## Data Presentation
 1. **Overview**
-   * **Decreased Conversion Rates**: There was a dip in conversion rate from 16.0% in September to 5.1% in October. But then there is rebound in the month of December reaching back to 10.3%
+   * **Decreased Conversion Rates**: There was a dip in conversion rate from 16.0% in September to 5.1% in October. But then there is rebound in the month of December reaching back to 10.3%.
+   * **Reduced Customer Engagement**: There is a decline in overall socail media engagement, with views dropping consistently throughout the year. While the clicks and likes are low compared to views, the click-through rate is 15.37%, meaning that engaged users are still interacting effectively.
+   *  **Customer Feedback Analysis**: Customer ratings have remained consistent, averaging around 3.7 throughout the year. But the average rating is below the target of 4.0, suggesting a need for focussed improvements in customer satisfaction, for products below 3.5.
       ![image alt](https://github.com/Bhaktispace/MarketingAnalyticsDashboard/blob/f8bccae2a23c4448724995e19e20ca7ab9a1cfc1/Screenshot%202025-01-29%20183713.png)
       
      
