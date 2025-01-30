@@ -49,4 +49,4 @@ Power BI, Python, SQL
     * **General Conversion Trend**: Throughout the year, conversion rate varied with highest number of product converting successfully in the months like Jan and Sep. This suggests that while some products had strong seasonal peaks, there is potential to improve conversions in lower-performing months through targeted interventions.
     *  **Lowest Conversion Month**: May experienced the lowest overall conversion rate at 4.5%, with no products standing out significantly in terms of conversion. This indicates a potential need to revisit marketing strategies or promotions during this period to boost performance.
     *   **Highest Conversion Rates**: January recorded the highest overall conversion rate at 19.6%, driven significantly by the Ski Boots with a remarkable 150% conversion. This indicates a strong start to the year, likely fueled by seasonal demand and effective marketing strategies.
-      ![image alt]()    
+      ![image alt](https://github.com/Bhaktispace/MarketingAnalyticsDashboard/blob/30134c2e6eaf2363e2cc78dfd2ca855e3bcb7ba9/Power%20BI%20Files/Images/Screenshot%202025-01-30%20184207.png)    
