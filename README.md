@@ -6,10 +6,14 @@ An online retail business, is facing a reduced customer engagement and conversio
 1. Marketing: Even after increased investment in Marketing there is a decline in customer engagement and conversion rates.
 2. Customer Experience: Seeking help with analyzing customer feedbacks to help in the overall gaol of improving the conversion rates
 ### Key Points
-1. Reduced Customer Engagement: The number of customer interactions and engagement with the website and marketing content has declined.
-2. Decreased Conversion Rate: Fewer site visitors are converting into customers.
-3. High Marketing Expense: Significant investment in marketing campaigns are not yielding expected returns.
-4. Need for Customer Feedback: Understanding customer opinions about products and services is crucial for improving engagenment and conversions.
+1. #### Reduced Customer Engagement:
+   The number of customer interactions and engagement with the website and marketing content has declined.
+2. #### Decreased Conversion Rate:
+   Fewer site visitors are converting into customers.
+3. #### High Marketing Expense:
+   Significant investment in marketing campaigns are not yielding expected returns.
+4. #### Need for Customer Feedback:
+   Understanding customer opinions about products and services is crucial for improving engagenment and conversions.
 
 ## KPIs Key Performance Indicators to consider
 1. Conversion rate
