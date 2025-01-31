@@ -1,5 +1,5 @@
 # MarketingAnalyticsDashboard
-
+![image alt](https://github.com/Bhaktispace/MarketingAnalyticsDashboard/blob/4943c58f5e39ea9242e0eb8d5a9be7c69848ae3b/Power%20BI%20Files/Images/pexels-negativespace-34577.jpg)
 ## Business Problem
 An online retail business, is facing a reduced customer engagement and conversion rates despite launching several new online marketing campaigns. They need help to conduct a detailed analysis and identify areas of improvement.
 ### Teams Involved
