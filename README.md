@@ -51,7 +51,12 @@ Power BI, Python, SQL
     *   **Highest Conversion Rates**: January recorded the highest overall conversion rate at 19.6%, driven significantly by the Ski Boots with a remarkable 150% conversion. This indicates a strong start to the year, likely fueled by seasonal demand and effective marketing strategies.
       ![image alt](https://github.com/Bhaktispace/MarketingAnalyticsDashboard/blob/30134c2e6eaf2363e2cc78dfd2ca855e3bcb7ba9/Power%20BI%20Files/Images/Screenshot%202025-01-30%20184207.png)    
 3.  **Reduced Customer Engagement**
-    * **Declining Views**:  Views peaked in February and July but declined from August and on, indicating reduced audience engagement in the later half of the year.
+    * **Declining Views**:  Views peaked in March, May and July but declined from August and on, indicating reduced audience engagement in the later half of the year.
     *  **Low Interaction Rates**: Clicks and likes remained consistently low compared to views, suggesting the need for more engaging content or stronger calls to action.
     *  **Content Type Performance**: Blog content drove the most views, especially in March and May, while social media and video content maintained steady but slightly lower engagement.
       ![image alt](https://github.com/Bhaktispace/MarketingAnalyticsDashboard/blob/a9c0ee974f544766c4cff0b1e4d5a5e41a755a84/Power%20BI%20Files/Images/Screenshot%202025-01-30%20184240.png)
+4.  **Customer Feedback Analysis**
+    * **Customer Ratings Distribution**: The majority of customer reviews are in the higher ratings, with 140 reviews at 4 stars and 135 reviews at 5 stars, indicating overall positive feedback. Lower ratings (1-2 stars) account for a smaller proportion, with 26 reviews at 1 star and 57 reviews at 2 stars.
+    *  **Sentiment Analysis**: Positive sentiment dominates with 275 reviews, reflecting a generally satisfied customer base. Negative sentiment is present in 82 reviews, with a smaller number of mixed and neutral sentiments, suggesting some areas for improvement but overall strong customer approval.
+    *   **Opportunity for Improvement**: The presence of mixed positive and mixed negative sentiments suggests that there are opportunities to convert those mixed experiences into more clearly positive ones, potentially boosting overall ratings. Addressing the specific concerns in mixed reviews could elevate customer satisfaction.
+       ![image alt](https://github.com/Bhaktispace/MarketingAnalyticsDashboard/blob/11a043883b13adaab765831102b43338aa27aa8f/Power%20BI%20Files/Images/Screenshot%202025-01-30%20184308.png)
