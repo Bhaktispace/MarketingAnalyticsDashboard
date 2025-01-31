@@ -66,9 +66,8 @@ Power BI, Python, SQL
 
 ## Actions
 1. ### Increase Conversion Rate:
-   Target High Performing Products
-   Focus marketing efforts on products with high conversion rates such as, Ski Boots, Kayak, Surfboard and Volleyball. Also, implement seasonal promotions during peak months like January and September to capitalize on these trends. 
+   Target High Performing Products - Focus marketing efforts on products with high conversion rates such as, Ski Boots, Kayak, Surfboard and Volleyball. Also, implement seasonal promotions during peak months like January and September to capitalize on these trends. 
 3. ### Enhance Customer Engament:
-   
+   Revitalize Content Strategy - To turn around declining views and low interaction rates, experiment with more engaging content types like interactive videos. Additionally boost engament by optimizing call-to-action placement in social media and blog content, particularly during historically lower-engagement months (September to December)
 4. ### Improve Customer Feedback:
-   
+   Address Mixed and Negative Feedback - Implement a feedback loop where mixed and negative reviews are analyzed to identify common issues. Develop improvement plans to address these concerns. Consider following up with dissatisfied customers to resolve issues and encourage re-rating, aiming to move average ratings closer to the 4.0 target.
