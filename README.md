@@ -76,3 +76,5 @@ Power BI, Python, SQL
 ## Assumptions
 All the analysis based on the year 2004. The data for 2003 and 2005 was not analyzed. 
 The target average rating is assumed to be 4.0.
+
+**This project was done for learning purposes only.**
