@@ -63,3 +63,12 @@ Power BI, Python, SQL
     *  **Sentiment Analysis**: Positive sentiment dominates with 275 reviews, reflecting a generally satisfied customer base. Negative sentiment is present in 82 reviews, with a smaller number of mixed and neutral sentiments, suggesting some areas for improvement but overall strong customer approval.
     *   **Opportunity for Improvement**: The presence of mixed positive and mixed negative sentiments suggests that there are opportunities to convert those mixed experiences into more clearly positive ones, potentially boosting overall ratings. Addressing the specific concerns in mixed reviews could elevate customer satisfaction.
        ![image alt](https://github.com/Bhaktispace/MarketingAnalyticsDashboard/blob/11a043883b13adaab765831102b43338aa27aa8f/Power%20BI%20Files/Images/Screenshot%202025-01-30%20184308.png)
+
+## Actions
+1. ### Increase Conversion Rate:
+   Target High Performing Products
+   Focus marketing efforts on products with high conversion rates such as, Ski Boots, Kayak, Surfboard and Volleyball. Also, implement seasonal promotions during peak months like January and September to capitalize on these trends. 
+3. ### Enhance Customer Engament:
+   
+4. ### Improve Customer Feedback:
+   
