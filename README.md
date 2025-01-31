@@ -36,6 +36,9 @@ An online retail business, is facing a reduced customer engagement and conversio
 ## Tools And Technology Used
 Power BI, Python, SQL
 
+## Data Model
+![image alt](https://github.com/Bhaktispace/MarketingAnalyticsDashboard/blob/09953f666a246ec788f57aec119b291759efd48e/Power%20BI%20Files/Images/Screenshot%202025-01-30%20184045.png)
+
 ## Data Presentation
 1. **Overview**
    
