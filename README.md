@@ -50,3 +50,8 @@ Power BI, Python, SQL
     *  **Lowest Conversion Month**: May experienced the lowest overall conversion rate at 4.5%, with no products standing out significantly in terms of conversion. This indicates a potential need to revisit marketing strategies or promotions during this period to boost performance.
     *   **Highest Conversion Rates**: January recorded the highest overall conversion rate at 19.6%, driven significantly by the Ski Boots with a remarkable 150% conversion. This indicates a strong start to the year, likely fueled by seasonal demand and effective marketing strategies.
       ![image alt](https://github.com/Bhaktispace/MarketingAnalyticsDashboard/blob/30134c2e6eaf2363e2cc78dfd2ca855e3bcb7ba9/Power%20BI%20Files/Images/Screenshot%202025-01-30%20184207.png)    
+3.  **Reduced Customer Engagement**
+    * **Declining Views**:  Views peaked in February and July but declined from August and on, indicating reduced audience engagement in the later half of the year.
+    *  **Low Interaction Rates**: Clicks and likes remained consistently low compared to views, suggesting the need for more engaging content or stronger calls to action.
+    *  **Content Type Performance**: Blog content drove the most views, especially in March and May, while social media and video content maintained steady but slightly lower engagement.
+      ![image alt](https://github.com/Bhaktispace/MarketingAnalyticsDashboard/blob/a9c0ee974f544766c4cff0b1e4d5a5e41a755a84/Power%20BI%20Files/Images/Screenshot%202025-01-30%20184240.png)
