@@ -73,5 +73,5 @@ Power BI, Python, SQL
    Address Mixed and Negative Feedback - Implement a feedback loop where mixed and negative reviews are analyzed to identify common issues. Develop improvement plans to address these concerns. Consider following up with dissatisfied customers to resolve issues and encourage re-rating, aiming to move average ratings closer to the 4.0 target.
 
 
-###Assumptions
+### Assumptions
 All the analysis based on the year 2004. The data for 2003 and 2005 was not analyzed.
